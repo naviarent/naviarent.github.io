@@ -17,7 +17,7 @@ services:
         icon: fas fa-laptop
       - title: "Location"
         desc: ""
-        icon: fab fa-markdown
+        icon: fas fa-search-location
 
 portfolio:
     title: "Portfolio"
@@ -32,7 +32,7 @@ timeline:
       - title: "Nos débuts"
         year: "2020"
         desc: "Crée au seins de l'école Epitech dans le cadre du projet Epitech Innovation Project, NaviaRent est lancé !"
-        image: assets/img/timeline/presentation.jpg
+        image: assets/img/timeline/presentation1.jpg
         alt:
         align: left
 #      - title: "An Agency is Born"
