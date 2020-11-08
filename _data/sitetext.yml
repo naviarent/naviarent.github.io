@@ -15,8 +15,8 @@ services:
       - title: "Borne connecté"
         desc: "Une borne pour faire des réservations de paddle ou pour la gestion d'un parc de paddle"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Location"
+        desc: ""
         icon: fab fa-markdown
 
 #portfolio:
@@ -31,8 +31,8 @@ timeline:
     events:
       - title: "Nos débuts"
         year: "2020"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        desc: "Crée au seins de l'école Epitech dans le cadre du projet Epitech Innovation Project, NaviaRent est lancé !"
+        image: assets/img/timeline/presentation.jpg
         alt:
         align: left
 #      - title: "An Agency is Born"
@@ -77,6 +77,9 @@ team:
       - name: "Alexandre Wagner"
         role: "Lead Developer"
         image: assets/img/team/wagner.jpg
+        social:
+          - url : https://github.com/wagnerwave
+            icon: fab fa-github
       - name: "Pierre Barillec"
         role: "Lead Developer"
         image: assets/img/team/pierre.jpg
