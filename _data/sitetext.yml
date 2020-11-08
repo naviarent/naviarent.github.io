@@ -6,17 +6,17 @@ header:
 
 services:
     title: "Services"
-    text: "Ce que nous proposons"
+    text: "Envie de louer un paddle en tout simplicité ?"
     section: services
     list:
       - title: "Application"
-        desc: "Application pour smartphone pour une location de paddle facilement"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Telecharger l'application NaviaRent pour louer un paddle rapidement !"
+        icon: fas fa-mobile-alt #find more at https://fontawesome.com/icons
       - title: "Borne connecté"
-        desc: "Une borne pour faire des réservations de paddle ou pour la gestion d'un parc de paddle"
-        icon: fas fa-laptop
+        desc: "Pas de smartphone ? Prêts de nos casiers retrouvé nos borne connecté pour commencer la location !"
+        icon: fas fa-solar-panel
       - title: "Location"
-        desc: ""
+        desc: "Trouvé nos bornes prêts de vos points d'eau préférer !"
         icon: fas fa-search-location
 
 portfolio:
