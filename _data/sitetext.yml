@@ -27,7 +27,7 @@ portfolio:
 about:
     title: "A propos"
     text: "Quelques mots sur nous"
-    section: timeline
+    section: about
     events:
       - title: "Nos débuts"
         year: "2020"
@@ -151,7 +151,7 @@ team:
 
 contact:
     title: "Contactez-nous!"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     
 footer:
