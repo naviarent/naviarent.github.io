@@ -24,7 +24,7 @@ portfolio:
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
 
-About:
+about:
     title: "A propos"
     text: "Quelques mots sur nous"
     section: timeline
