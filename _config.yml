@@ -22,8 +22,8 @@ email      : naviarent@gmail.com #this is also the email contact forms will go t
 description: "La location de paddle en libre-service"
 author     : NaviaRent
 logo:     #optional, defaults to site title
-  path: assets/img/logo/logo_1.jpg
-  height: 60 
+  path: assets/logo/logo_1.png
+  height: 76
 
 collections:
   portfolio:
