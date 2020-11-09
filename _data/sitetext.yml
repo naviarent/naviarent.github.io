@@ -20,9 +20,9 @@ services:
         icon: fas fa-search-location
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    title: "Nos Actions"
+    text: "Les actions faites par NaviaRent."
+    section: action
 
 timeline:
     title: "A propos"

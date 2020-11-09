@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Gaétan Séné
+subtitle: Champion de France de paddle & Gérant de l'arbenn kayak.
+image: ../assets/img/portfolio/gaetansene_thumbail
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Gaétan Séné
+  subtitle: Champion de France de paddle.
+  thumbnail: ../assets/img/portfolio/gaetansene_thumbail
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Gaetan sene, champion de france de paddle, il est aussi le gérant d'un site de location de sport nautique.
+NaviaRent est heureux de compter Gaetan sene comme partenaire majeur de la société.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
 - Client: Threads
-- Category: Illustration
+- Category: Illustration -->
 
