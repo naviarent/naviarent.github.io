@@ -1,7 +1,7 @@
 ---
 title: Gaétan Séné
 subtitle: Champion de France de paddle & Gérant de l'arbenn kayak.
-image: ../assets/img/portfolio/gaetansene_full.png
+image: ../assets/img/portfolio/gaetan_full.jpg
 alt: Shirts on a hanger
 
 caption:
