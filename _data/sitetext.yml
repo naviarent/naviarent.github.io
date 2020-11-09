@@ -1,6 +1,5 @@
 header:
-    title:
-      - image: assets/img/logo/logo_1.png 
+    title: NaviaRent
     text: La location de paddle en libre-service
     button: En savoir plus
     buttonlink: "#services" # "#{section}" or "URL/page link"
