@@ -13,7 +13,7 @@ services:
         desc: "Téléchargez l'application NaviaRent pour louer un paddle rapidement !"
         icon: fas fa-mobile-alt #find more at https://fontawesome.com/icons
       - title: "Borne connecté"
-        desc: "Pas de smartphone ? Louer directement depuis nos bornes connectées !"
+        desc: "Pas de smartphone ? Louez directement depuis nos bornes connectées !"
         icon: fas fa-solar-panel
       - title: "Location"
         desc: "Trouvez nos bornes près de vos points d'eau préférés !"
