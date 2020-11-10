@@ -9,7 +9,7 @@ caption:
   subtitle: Présentation du projet NaviaRent à la Fédération Française de Voile.
   thumbnail: https://raw.githubusercontent.com/naviarent/new-website/master/assets/img/portfolio/ffv.jpg
 ---
-NaviaRent à eu l'oportunité d'être présenter à la Fédération Française de Voile.
+NaviaRent a eu l'oportunité d'être présenté à la Fédération Française de Voile.
 
 <!-- {:.list-inline}
 - Date: January 2017
