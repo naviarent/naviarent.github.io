@@ -1,5 +1,6 @@
 header:
-    text: La location de paddle en libre-service
+    title: 
+    text: Location de paddle en libre-service
     button: En savoir plus
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
