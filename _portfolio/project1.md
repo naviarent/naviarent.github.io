@@ -9,8 +9,8 @@ caption:
   subtitle: Champion de France de paddle.
   thumbnail: https://raw.githubusercontent.com/naviarent/new-website/master/assets/img/portfolio/gaetansene_thumbail.png
 ---
-Gaetan sene, champion de france de paddle, il est aussi le gérant d'un site de location de sport nautique.
-NaviaRent est heureux de compter Gaetan sene comme partenaire majeur de la société.
+Gaétan Séné, champion de france de paddle, il est aussi le gérant d'un site de location de sport nautique.
+NaviaRent est heureux de compter Gaétan Séné comme partenaire majeur de la société.
 
 <!-- {:.list-inline}
 - Date: January 2017
