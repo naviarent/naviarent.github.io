@@ -31,7 +31,7 @@ timeline:
     events:
       - title: "Nos débuts"
         year: "2020"
-        desc: "Crée au seins de l'école Epitech dans le cadre du projet Epitech Innovation Project, NaviaRent est lancé !"
+        desc: "Créé au sein de l'école Epitech dans le cadre du projet Epitech Innovation Project, NaviaRent est lancé !"
         image: assets/img/timeline/presentation1.jpg
         alt:
         align: left
@@ -41,7 +41,7 @@ timeline:
 #        image: assets/img/timeline/2.jpg
 #        alt:
 #        align: right
-    end: "Faites partie<br>de notre aventure!"
+    end: "Faites partie<br>de notre aventure !"
 
 #clients:
 #    section: clients
