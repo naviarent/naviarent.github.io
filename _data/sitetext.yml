@@ -70,6 +70,8 @@ team:
         role: "Lead Developer"
         image: assets/img/team/phil.jpg
         social:
+          - url: http://philippeloctaux.com
+            icon: fab fa-link
           - url: https://twitter.com/philippeloctaux
             icon: fab fa-twitter
           - url: https://linkedin.com/in/philippeloctaux
