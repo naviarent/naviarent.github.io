@@ -1,13 +1,13 @@
 ---
 title: Fédération Française de Voile.
 subtitle: Présentation de notre projet à la FFV.
-image: https://raw.githubusercontent.com/naviarent/new-website/master/assets/img/portfolio/ffv_thumbnail.jpg
+image: /assets/img/portfolio/ffv.jpg
 alt: ffv
 
 caption:
   title: Fédération Française de Voile.
   subtitle: Présentation du projet NaviaRent à la Fédération Française de Voile.
-  thumbnail: https://raw.githubusercontent.com/naviarent/new-website/master/assets/img/portfolio/ffv.jpg
+  thumbnail: /assets/img/portfolio/ffv_thumbnail.jpg
 ---
 NaviaRent a eu l'opportunité d'être présenté à la Fédération Française de Voile.
 
