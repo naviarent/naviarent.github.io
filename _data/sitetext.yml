@@ -88,37 +88,27 @@ team:
         social:
           - url: https://github.com/pbarillec
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://facebook.com/pierre.barillec
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com/in/barillec-pierre-833779174
             icon: fab fa-linkedin-in
       - name: "Peter Bessone"
         role: "Lead Developer"
         image: assets/img/team/peter.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/peter-bessone-856ba014a
             icon: fab fa-linkedin-in
       - name: "François Lelay"
         role: "Lead Developer"
         image: assets/img/team/papie.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/fran%C3%A7ois-lelay-93567817a/
             icon: fab fa-linkedin-in
       - name: "Charles Séry"
         role: "Lead Developer"
         image: assets/img/team/charles.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/charles-s%C3%A9ry-3a30a9160/
             icon: fab fa-linkedin-in
       - name: "Baptiste Mottin"
         role: "Lead Developer"
@@ -127,28 +117,22 @@ team:
         role: "Lead Developer"
         image: assets/img/team/remi.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://facebook.com/remi.balbous
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/r%C3%A9mi-balbous-00a530179
             icon: fab fa-linkedin-in
       - name: "Victor Simon"
         role: "Lead Developer"
         image: assets/img/team/vico.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/victor-simon-
             icon: fab fa-linkedin-in
 
 contact:
     title: "Contactez-nous!"
-    text: ""
+    text: "Vous pouvez également nous contacter via nos réseaux sociaux."
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
