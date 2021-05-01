@@ -1,5 +1,4 @@
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+theme: jekyll-agency
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,9 +15,6 @@ collections:
   portfolio:
 
 markdown: kramdown
-
-plugins:
-  - jekyll-remote-theme
 
 # use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
